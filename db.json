@@ -1,0 +1,122 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Home Work",
+      "description": "college assignment",
+      "state": "todo",
+      "tag": "official",
+      "subTask": [
+        {
+          "title": "eat",
+          "status": true,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "json server",
+      "description": "masai",
+      "state": "todo",
+      "tag": "official",
+      "subTask": [
+        {
+          "title": "drink",
+          "status": false,
+          "id": 1
+        }
+      ]
+    },
+    {
+      "title": "Electric Bill",
+      "state": "done",
+      "tag": "official",
+      "description": "last date 25 july",
+      "subTask": [
+        {
+          "title": "widthdraw money ",
+          "status": false,
+          "id": "35bddf38-3eda-4fc0-a03e-e10495f0f086"
+        },
+        {
+          "title": "fill petrol",
+          "status": true,
+          "id": "24e31282-2545-47d3-bcd9-788336d77fe2"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "title": "how js work PPT",
+      "state": "inProgress",
+      "tag": "personal",
+      "description": "college work",
+      "subTask": [
+        {
+          "title": "download Power Point",
+          "status": false,
+          "id": "d272c517-9a55-4acc-8773-c6297e2443b4"
+        },
+        {
+          "title": "use Wikipedia",
+          "status": false,
+          "id": "1ac7d64c-a110-46e0-b565-3d881bac43f6"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "learn Redux",
+      "state": "done",
+      "tag": "personal",
+      "description": "masai work",
+      "subTask": [
+        {
+          "title": "use redux-thunk",
+          "status": true,
+          "id": "64e6f089-d9fd-4012-8f5f-3488908f210d"
+        },
+        {
+          "title": "use middleware",
+          "status": true,
+          "id": "23023b02-ea85-48e1-9831-91238595ed6f"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "learn react",
+      "state": "done",
+      "tag": "personal",
+      "description": "masai work",
+      "subTask": [
+        {
+          "title": "use context api",
+          "status": true,
+          "id": "514457b6-f9aa-4dd4-b13a-833e12608687"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "title": "hdsfjk",
+      "state": "todo",
+      "tag": "official",
+      "description": "hjdskm",
+      "subTask": [
+        {
+          "title": "hfdsjkm",
+          "status": false,
+          "id": "1f99b5c8-6da8-4df7-abf8-4558f03f9610"
+        },
+        {
+          "title": "hfdsjkmhjdksm",
+          "status": false,
+          "id": "4e587e5b-0425-4b9d-b331-246615fbadce"
+        }
+      ],
+      "id": 7
+    }
+  ]
+}
